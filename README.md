@@ -1,6 +1,6 @@
 # 前言
 # persistence4
-数据持久化(4)SQlite3的使用 Demo
+数据持久化(4) Core Data的使用 Demo
 # 
 欢迎下载交流。 
 
